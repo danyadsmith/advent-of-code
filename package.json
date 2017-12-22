@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.1.2"
+  },
+  "dependencies": {
+    "md5": "^2.2.1"
   }
 }
